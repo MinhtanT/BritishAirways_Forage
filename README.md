@@ -1,4 +1,3 @@
-XGBoost:
 XGBoost (Extreme Gradient Boosting) est une bibliothèque populaire d'apprentissage automatique utilisée pour les tâches de classification et de régression. Il est basé sur le principe des arbres de décision boostés, une technique d'apprentissage ensembliste qui combine plusieurs modèles d'arbres de décision simples pour créer un modèle plus puissant.
 
 Quand utiliser XGBoost :
@@ -25,7 +24,6 @@ Comment fonctionne XGBoost :
   __________________________________________________________
 
 
-RandomForest
 Random Forest est un algorithme d'apprentissage supervisé utilisé pour les tâches de classification et de régression.
 
 Qu'est-ce que Random Forest :
